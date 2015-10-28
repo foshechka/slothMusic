@@ -39,7 +39,7 @@
 
 Либо в файле `database.sql` ([ссылка](https://raw.githubusercontent.com/ifamed/slothMusic/master/database.sql))
 
-По всем вопросам можно писать на dmitrypavlov.design@gmail.com
+По всем вопросам можно писать на sfoshka@gmail.com
 
 ### Лицензия
 [MIT](https://raw.githubusercontent.com/ifamed/slothMusic/master/LICENSE)
