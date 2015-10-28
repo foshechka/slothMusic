@@ -83,7 +83,7 @@ The entries in the table are added if `id` recordings in the database was not fo
 
 Or in the file `database.sql` ([link](https://raw.githubusercontent.com/ifamed/slothMusic/master/database.sql))
 
-You can ask me any questions by e-mail: dmitrypavlov.design@gmail.com
+You can ask me any questions by e-mail: sfoshka@gmail.com
 
 ### License
 [MIT](https://raw.githubusercontent.com/ifamed/slothMusic/master/LICENSE)
